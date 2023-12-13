@@ -14,4 +14,6 @@ kivonas = a - b
 print("a két szám különbsége:",kivonas)
 
 szoveg = input("adj meg egy szót: ")
-szam = int(inut("adj meg egy számot: "))
+szam = int(input("adj meg egy számot: "))
+
+print(szoveg,szam)
