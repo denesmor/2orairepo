@@ -12,3 +12,5 @@ print("a két szám hányadosa:",osztas)
 
 kivonas = a - b
 print("a két szám különbsége:",kivonas)
+
+szoveg = input("adj meg egy szót: ")
