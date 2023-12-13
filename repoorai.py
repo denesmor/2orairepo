@@ -6,3 +6,6 @@ print("a két szám összege:",osszeg)
 
 szorzat = a * b
 print("a két szám szorzata:",szorzat)
+
+osztas = a / b
+print("a két szám hányadosa",osztas)
