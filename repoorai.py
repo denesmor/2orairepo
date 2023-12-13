@@ -8,4 +8,7 @@ szorzat = a * b
 print("a két szám szorzata:",szorzat)
 
 osztas = a / b
-print("a két szám hányadosa",osztas)
+print("a két szám hányadosa:",osztas)
+
+kivonas = a - b
+print("a két szám különbsége:",kivonas)
