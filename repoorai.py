@@ -1,0 +1,1 @@
+a = int(input("adj meg egy számot: "))
